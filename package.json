@@ -1,12 +1,12 @@
 {
-  "name": "ALI-MD",
+  "name": "ROX-LEDEND",
   "version": "3.8.0",
   "description": "NOT THE BEST BOT IN THE UNIVERSE, BUT ENJOYMENT IS PROMISING",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ALI-MD",
-    "stop": "pm2 stop ALI-MD",
-    "restart": "pm2 restart ALI-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name ROX-LEDEND",
+    "stop": "pm2 stop ROX-LEDEND",
+    "restart": "pm2 restart ROX-LEDEND"
   },
   "dependencies": {
     "baileys": "npm:baileys-pro@latest",
